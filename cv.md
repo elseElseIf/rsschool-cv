@@ -4,5 +4,5 @@
 * Skills: *JavaScript, HTML, CSS, Git.* 
 * Code examples [Codewars:](https://www.codewars.com/users/MichaelPika)
 * Training tasks: [Simple-singolo:](https://github.com/MichaelPika/Simple-singolo) [DynamicLandingPage:](https://github.com/MichaelPika/DynamicLandingPage) [Virtual-Keyboard:](https://github.com/MichaelPika/Virtual-Keyboard)
-*  Belarusian National Technical University (Bachelor), faculty of Instrumentation engineering.
+*  Belarusian National Technical University (Bachelor), faculty of Instrumentation engineering. 
 *  I worked for 2 years in the international customer support department. Now I am implementations specialist in [EDiN](https://edn.by). English(level A1-A2) is my weakest point, but I try to study every day for a more confident B1 level.
