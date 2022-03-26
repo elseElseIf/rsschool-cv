@@ -1,1 +1,1 @@
-# rsschool-cv
+https://elseElseIf.github.io/rsschool-cv/cv
